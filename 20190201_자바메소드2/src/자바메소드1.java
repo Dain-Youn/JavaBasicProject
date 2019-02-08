@@ -1,4 +1,5 @@
 // 5개의 정수를 난수발생 ==> max,min
+//Hello GitHub
 public class 자바메소드1 {
 
 	public static void main(String[] args) {
